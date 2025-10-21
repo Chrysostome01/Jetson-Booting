@@ -30,6 +30,37 @@ Ce tutoriel s'adresse aux utilisateurs qui souhaitent réinitialiser leur DOFBOT
 - Ordinateur avec un OS Linux de préférence Ubuntu 22.04 à jour
 - Connecteur Jack
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/image1.png" alt="Image 1" width="250"><br>
+      <b>Nom de l'image 1</b>
+    </td>
+    <td align="center">
+      <img src="images/image2.png" alt="Image 2" width="250"><br>
+      <b>Nom de l'image 2</b>
+    </td>
+    <td align="center">
+      <img src="images/image3.png" alt="Image 3" width="250"><br>
+      <b>Nom de l'image 3</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/image4.png" alt="Image 4" width="250"><br>
+      <b>Nom de l'image 4</b>
+    </td>
+    <td align="center">
+      <img src="images/image5.png" alt="Image 5" width="250"><br>
+      <b>Nom de l'image 5</b>
+    </td>
+    <td align="center">
+      <img src="images/image6.png" alt="Image 6" width="250"><br>
+      <b>Nom de l'image 6</b>
+    </td>
+  </tr>
+</table>
+
 ### Fichiers nécessaires
 
 - **eMMC Boot File** : Télécharger le fichier ZIP depuis le lien fourni
