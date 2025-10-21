@@ -1,3 +1,5 @@
+<div align="justify">
+
 # DOFBOT Jetson Nano - Guide de Redémarrage
 
 ## Description
@@ -170,3 +172,4 @@ Ce guide a été créé pour faciliter la configuration du DOFBOT Jetson Nano.
 ## Licence
 
 Ce projet est fourni à des fins éducatives et de documentation.
+</div>
