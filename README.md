@@ -159,6 +159,8 @@ Cliquez sur **"Yes"** et patientez pendant que l'image est écrite sur la clé U
 
 ## Support
 
+Cette documentation a été rédiger par l'équipe **The Winners** de la **Tekbot Robotics Challenge 2025**.
+
 Pour tout problème lié au redémarrage de la carte, veuillez laisser un message à l'adresse mail suivante :
 
 📧 **peacemathieu@gmail.com**
