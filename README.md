@@ -65,7 +65,7 @@ Ce tutoriel s'adresse aux utilisateurs qui souhaitent réinitialiser leur DOFBOT
 
 ### Fichiers nécessaires
 
-- **eMMC Boot File** : Télécharger le fichier ZIP depuis le lien fourni
+- **eMMC Boot File** : [Télécharger depuis Google Drive](https://drive.google.com/drive/folders/13-68trXKoHZ-rgB_1SUaeCMRy3PLhOaA)
 
 ### Procédure de flashage
 
@@ -76,6 +76,10 @@ Ce tutoriel s'adresse aux utilisateurs qui souhaitent réinitialiser leur DOFBOT
 
    > Cette étape permet à la carte Jetson NANO d'entrer en mode de flashage système (REC)
 
+ <td align="center">
+      <img src="images/connexion_cavalier.png" alt="connexion_cavalier" width="250"><br>
+    </td>
+    
 #### Étape 2 : Connexion
 
 1. Branchez l'alimentation 5V/2A
@@ -83,6 +87,10 @@ Ce tutoriel s'adresse aux utilisateurs qui souhaitent réinitialiser leur DOFBOT
 
    > La carte entrera automatiquement en mode de flashage REC après la mise sous tension
 
+ <td align="center">
+      <img src="images/connexion_alimentation.png" alt="connexion_alimentation" width="250"><br>
+    </td>
+    
 #### Étape 3 : Vérification du mode boot
 
 Ouvrez le terminal et tapez la commande suivante :
@@ -102,7 +110,10 @@ Vérifiez que parmi les devices se trouve **"NVIDIA Corp APX"**. Cela confirme q
 ```bash
 tar xzvf Jetson_Boot_USB.tar.gz
 ```
-
+ <td align="center">
+      <img src="dezipper.png" alt="dezipper" width="250"><br>
+    </td>
+    
 #### Étape 5 : Navigation dans les dossiers
 
 Entrez dans le dossier dézippé avec les commandes suivantes :
@@ -114,6 +125,11 @@ cd Linux_for_Tegra/
 ls
 ```
 
+ <td align="center">
+      <img src="navigation.png" alt="navigation" width="250"><br>
+    </td>
+
+    
 #### Étape 6 : Exécution du flashage
 
 Entrez la commande suivante pour exécuter le fichier de démarrage eMMC :
