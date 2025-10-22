@@ -111,7 +111,7 @@ Vérifiez que parmi les devices se trouve **"NVIDIA Corp APX"**. Cela confirme q
 tar xzvf Jetson_Boot_USB.tar.gz
 ```
  <td align="center">
-      <img src="dezipper.png" alt="dezipper" width="250"><br>
+      <img src="images/dezipper.png" alt="dezipper" width="250"><br>
     </td>
     
 #### Étape 5 : Navigation dans les dossiers
@@ -126,7 +126,7 @@ ls
 ```
 
  <td align="center">
-      <img src="navigation.png" alt="navigation" width="250"><br>
+      <img src="images/navigation.png" alt="navigation" width="250"><br>
     </td>
 
     
