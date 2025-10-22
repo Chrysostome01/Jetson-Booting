@@ -30,6 +30,7 @@ Ce tutoriel s'adresse aux utilisateurs qui souhaitent réinitialiser leur DOFBOT
 - Ordinateur avec un OS Linux de préférence Ubuntu 22.04 à jour
 - Connecteur Jack
 
+<center>
 <table>
   <tr>
     <td align="center">
@@ -60,6 +61,7 @@ Ce tutoriel s'adresse aux utilisateurs qui souhaitent réinitialiser leur DOFBOT
     </td>
   </tr>
 </table>
+</center>
 
 ### Fichiers nécessaires
 
