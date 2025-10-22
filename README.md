@@ -35,29 +35,29 @@ Ce tutoriel s'adresse aux utilisateurs qui souhaitent réinitialiser leur DOFBOT
   <tr>
     <td align="center">
       <img src="images/image1.jpeg" alt="Image 1" width="250"><br>
-      <b>Nom de l'image 1</b>
+      <b>Carte de développement NVIDIA</b>
     </td>
     <td align="center">
       <img src="images/image2.jpeg" alt="Image 2" width="250"><br>
-      <b>Nom de l'image 2</b>
+      <b>Chargeur de smartphone</b>
     </td>
     <td align="center">
       <img src="images/image3.jpeg" alt="Image 3" width="250"><br>
-      <b>Nom de l'image 3</b>
+      <b>Jumper (cavalier)</b>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="images/image4.jpeg" alt="Image 4" width="250"><br>
-      <b>Nom de l'image 4</b>
+      <b>Câble Android</b>
     </td>
     <td align="center">
       <img src="images/image5.png" alt="Image 5" width="250"><br>
-      <b>Nom de l'image 5</b>
+      <b>OS Linux</b>
     </td>
     <td align="center">
       <img src="images/image6.jpeg" alt="Image 6" width="250"><br>
-      <b>Nom de l'image 6</b>
+      <b>Connecteur Jack</b>
     </td>
   </tr>
 </table>
