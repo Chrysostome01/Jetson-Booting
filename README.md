@@ -77,7 +77,7 @@ Ce tutoriel s'adresse aux utilisateurs qui souhaitent réinitialiser leur DOFBOT
    > Cette étape permet à la carte Jetson NANO d'entrer en mode de flashage système (REC)
 
  <td align="center">
-      <img src="images/connexion_cavalier.png" alt="connexion_cavalier" width="250"><br>
+      <img src="images/connexion_cavalier.png" alt="connexion_cavalier" width="500"><br>
     </td>
     
 #### Étape 2 : Connexion
@@ -88,7 +88,7 @@ Ce tutoriel s'adresse aux utilisateurs qui souhaitent réinitialiser leur DOFBOT
    > La carte entrera automatiquement en mode de flashage REC après la mise sous tension
 
  <td align="center">
-      <img src="images/connexion_alimentation.png" alt="connexion_alimentation" width="250"><br>
+      <img src="images/connexion_alimentation.png" alt="connexion_alimentation" width="500"><br>
     </td>
     
 #### Étape 3 : Vérification du mode boot
@@ -111,7 +111,7 @@ Vérifiez que parmi les devices se trouve **"NVIDIA Corp APX"**. Cela confirme q
 tar xzvf Jetson_Boot_USB.tar.gz
 ```
  <td align="center">
-      <img src="images/dezipper.png" alt="dezipper" width="250"><br>
+      <img src="images/dezipper.png" alt="dezipper" width="700"><br>
     </td>
     
 #### Étape 5 : Navigation dans les dossiers
@@ -126,7 +126,7 @@ ls
 ```
 
  <td align="center">
-      <img src="images/navigation.png" alt="navigation" width="250"><br>
+      <img src="images/navigation.png" alt="navigation" width="700"><br>
     </td>
 
     
