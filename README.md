@@ -178,6 +178,11 @@ Après la fin de l'écriture :
 
 Formatez la clé USB avec **SD Card Formatter.exe**
 
+
+ <td align="center">
+      <img src="images/formater.png" alt="formater" width="700"><br>
+    </td>
+
 #### Étape 2 : Préparation du fichier image
 
 Dézippez le dossier du boot file téléchargé
@@ -188,6 +193,11 @@ Dézippez le dossier du boot file téléchargé
 2. Ouvrez **Win32 Disk Imager**
 3. Sélectionnez le fichier `.img` fourni
 4. Cliquez sur **"Write"**
+
+
+ <td align="center">
+      <img src="images/ecriture.png" alt="formater" width="700"><br>
+    </td>
 
 #### Étape 4 : Confirmation
 
